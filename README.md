@@ -83,7 +83,7 @@ Puedes modificar los siguientes parámetros en el código:
 
 ## Licencia
 
-Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+Este proyecto es libre y de uso academico sientete a gusto experimentando con él.
 
 ## Autores
 
