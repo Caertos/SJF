@@ -90,5 +90,3 @@ Este proyecto es libre y de uso academico sientete a gusto experimentando con é
 - **Juan David Escarraga**
 - **Carlos Cochero**
 - **Juan David Benitez**
-
-## Contacto
