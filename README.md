@@ -83,7 +83,7 @@ Puedes modificar los siguientes parámetros en el código:
 
 ## Licencia
 
-Este proyecto es libre y de uso academico sientete a gusto experimentando con él.
+Este proyecto es libre y de uso académico, siéntete a gusto experimentando con él.
 
 ## Autores
 
