@@ -52,10 +52,10 @@ SJF/
 ## Capturas de Pantalla
 
 ### Interfaz Inicial
-![Interfaz Inicial](https://via.placeholder.com/800x400?text=Interfaz+Inicial)
+![Interfaz Inicial](./Interfaz.png)
 
 ### Simulación en Progreso
-![Simulación en Progreso](https://via.placeholder.com/800x400?text=Simulación+en+Progreso)
+![Simulación en Progreso](./Simulacion.png)
 
 ## Tecnologías Utilizadas
 
