@@ -51,6 +51,9 @@ SJF/
 
 ## Capturas de Pantalla
 
+### Diagrama del proyecto
+![Diagrama](./Diagrama.png)
+
 ### Interfaz Inicial
 ![Interfaz Inicial](./Interfaz.png)
 
